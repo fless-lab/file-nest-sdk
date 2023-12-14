@@ -1,6 +1,6 @@
 {
   "name": "file-nest-sdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "SDK for interacting with Filenest file server",
   "main": "src/index.js",
   "scripts": {
